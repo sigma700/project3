@@ -35,3 +35,20 @@ a:hover{
 a{
     color: azure;
 }
+p {
+    color: white;
+}
+#ribs{
+    background-image: url("https://i.pinimg.com/474x/d7/8a/f6/d78af6637fbb80facccaac0af11a3d9f.jpg");
+    color: coral;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.picture{
+    width: 400px;
+    height: 400px;
+}
+h2{
+    color: azure;
+    
+}
